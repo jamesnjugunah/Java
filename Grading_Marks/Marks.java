@@ -52,7 +52,7 @@ public class Marks {
         System.out.println("                               Department Of Computer Science");
         System.out.println("                                   End Of Semester Results");
         System.out.println("                                                              ");
-        System.out.println("|Name:Lusuli Lusule Ian         |Roll_No:C026-01-0968/2022            Semester:2.2                ");
+        System.out.println("|Name:James Njuguna         |Roll_No:C026-01-0919/2022            Semester:2.2                ");
         System.out.println("---------------------------------------------------------------------------------------------------------------");
         System.out.println("|Unit_Code                    |Unit_Name                               |Score");
         System.out.println(" --------------------------------------------------------------------------------------------------------------");
